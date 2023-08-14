@@ -1,22 +1,17 @@
 # CodeClauseInternship_Login-using-Google-facebook-github-otp-authentication-using-firebase
-# Weather Forecasting App
+This is a web application that implements various authentication methods using Firebase Authentication.
 
-This straightforward weather forecast app gives users access to the most recent weather data based on their input.
+## Features
 
-Feature #
-- Easy-to-use interface for entering a city name
-
-- Shows the current temperature and a weather report
-
-- Retrieves weather information via the OpenWeatherMap API.
-
+- Google Authentication
+- Facebook Authentication
+- GitHub authentication
+- OTP authentication
+- User-friendly interface
 
 Technologies Used
 HTML
 CSS
 JavaScript
-OpenWeatherMap API
-   
-
-
+Firebase Authentication
 
