@@ -1,4 +1,4 @@
-# CodeClauseInternship_Login-using-Google-facebook-github-otp-authentication-using-firebase
+# _Login-using-Google-facebook-github-otp-authentication-using-firebase
 This is a web application that implements various authentication methods using Firebase Authentication.
 
 ## Features
